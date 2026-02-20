@@ -7,3 +7,4 @@ def get_largest_square(numbers):
 numbers = input().split()
 result=get_largest_square(numbers)
 print(result)
+g
